@@ -21,6 +21,10 @@
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
+footer {
+    background-color: rgb(23, 88, 59) !important;
+}
+
 .navbar.scrolled .nav-link {
     color: white !important;
 }
@@ -90,4 +94,55 @@
 .btn-primary:hover {
     background: var(--secondary);
     transform: translateY(-2px);
+}
+
+.rodape-portal-links--redes-sociais {
+    background-color: rgb(47, 121, 88);
+    padding: 1rem 0; /* Ajuste o padding conforme necessário */
+    display: block;
+}
+
+.rodape-portal-links {
+    padding: .625rem 0;
+    text-align: center; /* Centraliza o texto e os links dentro do rodapé */
+}
+
+.rodape-portal-links__lista {
+    display: flex;
+    justify-content: center; /* Centraliza os itens na linha */
+    flex-wrap: wrap; /* Permite que os itens se ajustem automaticamente em várias linhas, se necessário */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.rodape-portal-links__item {
+    margin: 0 15px; /* Ajusta o espaçamento entre os itens */
+    
+}
+
+.rodape-portal-links__link {
+    display: block;
+    color: white; /* Defina a cor dos links */
+    font-size: 2rem; /* Ajuste o tamanho dos ícones */
+    text-decoration: none;
+    
+}
+
+.fab {
+    font-size: 2rem; /* Ajusta o tamanho dos ícones */
+    color: white; /* Cor dos ícones */
+    transition: color 0.3s ease; /* Adiciona um efeito suave na troca de cor */
+}
+
+.fab:hover {
+    color: #f0f0f0; /* Altera a cor do ícone ao passar o mouse */
+}
+
+.col-md-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza horizontalmente */
+    justify-content: center; /* Centraliza verticalmente */
+    text-align: center; /* Alinha o texto centralizado */
 }
