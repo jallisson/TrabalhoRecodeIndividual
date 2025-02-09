@@ -124,13 +124,13 @@ footer {
 .rodape-portal-links__link {
     display: block;
     color: white; /* Defina a cor dos links */
-    font-size: 2rem; /* Ajuste o tamanho dos ícones */
+    font-size: 1.5rem; /* Ajuste o tamanho dos ícones */
     text-decoration: none;
     
 }
 
 .fab {
-    font-size: 2rem; /* Ajusta o tamanho dos ícones */
+    font-size: 0.5rem; /* Ajusta o tamanho dos ícones */
     color: white; /* Cor dos ícones */
     transition: color 0.3s ease; /* Adiciona um efeito suave na troca de cor */
 }
