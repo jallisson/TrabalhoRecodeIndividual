@@ -131,4 +131,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - AOS Library
 - [Deus / PelaVida]
 - [Ana Maria / Minha esposa pela força]
-- [Vânia / Recode]
+- [Vânia / Tutora-Recode]
+- [Flâvio Mota / Professor-Recode]
