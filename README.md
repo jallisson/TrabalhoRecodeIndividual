@@ -125,5 +125,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Bootstrap Team
 - Font Awesome
 - AOS Library
-- [Deus/PelaVida]
-- [Vânia/Recode]
+- [Deus / PelaVida]
+- [Ana Maria / Minha esposa pela força]
+- [Vânia / Recode]
