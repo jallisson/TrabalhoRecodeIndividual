@@ -146,3 +146,22 @@ footer {
     justify-content: center; /* Centraliza verticalmente */
     text-align: center; /* Alinha o texto centralizado */
 }
+
+@media (max-width: 480px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .fab {
+        font-size: 1.2rem; /* Ícones menores */
+    }
+
+    .hero-section {
+        padding: 3rem 0;
+    }
+
+    .destination-card img {
+        height: 180px;
+    }
+}
