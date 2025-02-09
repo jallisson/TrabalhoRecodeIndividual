@@ -2,6 +2,10 @@
 
 Um site moderno e responsivo para uma agência de viagens, desenvolvido como parte do projeto individual do curso. O site apresenta destinos populares, pacotes de viagens e um sistema completo de reservas.
 
+<p align="center">
+  <a href="https://trabalho-recode-individual.vercel.app//" target="_blank" rel="noopener noreferrer">Link para o site</a>
+</p> 
+
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
